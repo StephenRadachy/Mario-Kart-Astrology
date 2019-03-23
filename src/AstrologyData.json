@@ -1,217 +1,217 @@
 [
 	{
 		"name": "Baby Daisy",
-		"image": "https://www.mariowiki.com/images/thumb/4/43/MK8_BabyDaisy_Icon.png/32px-MK8_BabyDaisy_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/4/43/MK8_BabyDaisy_Icon.png/64px-MK8_BabyDaisy_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Baby Luigi",
-		"image": "https://www.mariowiki.com/images/thumb/a/aa/MK8_BabyLuigi_Icon.png/32px-MK8_BabyLuigi_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/a/aa/MK8_BabyLuigi_Icon.png/64px-MK8_BabyLuigi_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Baby Mario",
-		"image": "https://www.mariowiki.com/images/thumb/d/d2/MK8_BabyMario_Icon.png/32px-MK8_BabyMario_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/d/d2/MK8_BabyMario_Icon.png/64px-MK8_BabyMario_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Baby Peach",
-		"image": "https://www.mariowiki.com/images/thumb/3/3d/MK8_BabyPeach_Icon.png/32px-MK8_BabyPeach_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/3/3d/MK8_BabyPeach_Icon.png/64px-MK8_BabyPeach_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Baby Rosalina",
-		"image": "https://www.mariowiki.com/images/thumb/0/09/MK8_BabyRosalina_Icon.png/32px-MK8_BabyRosalina_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/0/09/MK8_BabyRosalina_Icon.png/64px-MK8_BabyRosalina_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Bowser",
-		"image": "https://www.mariowiki.com/images/thumb/4/47/MK8_Bowser_Icon.png/32px-MK8_Bowser_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/4/47/MK8_Bowser_Icon.png/64px-MK8_Bowser_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Bowser Jr.",
-		"image": "https://www.mariowiki.com/images/thumb/2/26/MK8_Bowser_Jr_Icon.png/32px-MK8_Bowser_Jr_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/2/26/MK8_Bowser_Jr_Icon.png/64px-MK8_Bowser_Jr_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Cat Peach",
-		"image": "https://www.mariowiki.com/images/thumb/a/ad/MK8_Cat_Peach_Icon.png/32px-MK8_Cat_Peach_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/a/ad/MK8_Cat_Peach_Icon.png/64px-MK8_Cat_Peach_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Donkey Kong",
-		"image": "https://www.mariowiki.com/images/thumb/0/08/MK8_DKong_Icon.png/32px-MK8_DKong_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/0/08/MK8_DKong_Icon.png/64px-MK8_DKong_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Dry Bones",
-		"image": "https://www.mariowiki.com/images/thumb/3/3f/MK8DX_Dry_Bones_Icon.png/32px-MK8DX_Dry_Bones_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/3/3f/MK8DX_Dry_Bones_Icon.png/64px-MK8DX_Dry_Bones_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Dry Bowser",
-		"image": "https://www.mariowiki.com/images/thumb/2/29/MK8_Dry_Bowser_Icon.png/32px-MK8_Dry_Bowser_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/2/29/MK8_Dry_Bowser_Icon.png/64px-MK8_Dry_Bowser_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Iggy",
-		"image": "https://www.mariowiki.com/images/thumb/d/dd/MK8_Iggy_Icon.png/32px-MK8_Iggy_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/d/dd/MK8_Iggy_Icon.png/64px-MK8_Iggy_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Inkling Boy",
-		"image": "https://www.mariowiki.com/images/thumb/3/3c/MK8DX_Male_Inkling_Icon.png/32px-MK8DX_Male_Inkling_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/3/3c/MK8DX_Male_Inkling_Icon.png/64px-MK8DX_Male_Inkling_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Inkling Girl",
-		"image": "https://www.mariowiki.com/images/thumb/b/b9/MK8DX_Female_Inkling_Icon.png/32px-MK8DX_Female_Inkling_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/b/b9/MK8DX_Female_Inkling_Icon.png/64px-MK8DX_Female_Inkling_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Isabelle",
-		"image": "https://www.mariowiki.com/images/thumb/2/20/MK8_Isabelle_Icon.png/32px-MK8_Isabelle_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/2/20/MK8_Isabelle_Icon.png/64px-MK8_Isabelle_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "King Boo",
-		"image": "https://www.mariowiki.com/images/thumb/1/1d/MK8DX_King_Boo_Icon.png/32px-MK8DX_King_Boo_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/1/1d/MK8DX_King_Boo_Icon.png/64px-MK8DX_King_Boo_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Koopa",
-		"image": "https://www.mariowiki.com/images/thumb/b/bc/MK8_Koopa_Icon.png/32px-MK8_Koopa_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/b/bc/MK8_Koopa_Icon.png/64px-MK8_Koopa_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Koopa Troopa",
-		"image": "https://www.mariowiki.com/images/thumb/b/bc/MK8_Koopa_Icon.png/32px-MK8_Koopa_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/b/bc/MK8_Koopa_Icon.png/64px-MK8_Koopa_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Lakitu",
-		"image": "https://www.mariowiki.com/images/thumb/7/7d/MK8_Lakitu_Icon.png/32px-MK8_Lakitu_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/7/7d/MK8_Lakitu_Icon.png/64px-MK8_Lakitu_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Larry",
-		"image": "https://www.mariowiki.com/images/thumb/c/c2/MK8_Larry_Icon.png/32px-MK8_Larry_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/c/c2/MK8_Larry_Icon.png/64px-MK8_Larry_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Lemmy",
-		"image": "https://www.mariowiki.com/images/thumb/f/fc/MK8_Lemmy_Icon.png/32px-MK8_Lemmy_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/f/fc/MK8_Lemmy_Icon.png/64px-MK8_Lemmy_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Link",
-		"image": "https://www.mariowiki.com/images/thumb/e/e8/MK8_Link_Icon.png/32px-MK8_Link_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/e/e8/MK8_Link_Icon.png/64px-MK8_Link_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Ludwig",
-		"image": "https://www.mariowiki.com/images/thumb/a/a8/MK8_Ludwig_Icon.png/32px-MK8_Ludwig_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/a/a8/MK8_Ludwig_Icon.png/64px-MK8_Ludwig_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Luigi",
-		"image": "https://www.mariowiki.com/images/thumb/5/51/MK8_Luigi_Icon.png/32px-MK8_Luigi_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/5/51/MK8_Luigi_Icon.png/64px-MK8_Luigi_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Mario",
-		"image": "https://www.mariowiki.com/images/thumb/d/d9/MK8_Mario_Icon.png/32px-MK8_Mario_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/d/d9/MK8_Mario_Icon.png/64px-MK8_Mario_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Metal Mario",
-		"image": "https://www.mariowiki.com/images/thumb/e/e3/MK8_MMario_Icon.png/32px-MK8_MMario_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/e/e3/MK8_MMario_Icon.png/64px-MK8_MMario_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Mii",
-		"image": "https://www.mariowiki.com/images/thumb/a/ab/Mii_amiibo_MK8.png/32px-Mii_amiibo_MK8.png",
+		"image": "https://www.mariowiki.com/images/thumb/a/ab/Mii_amiibo_MK8.png/64px-Mii_amiibo_MK8.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Morton",
-		"image": "https://www.mariowiki.com/images/thumb/7/72/MK8_Morton_Icon.png/32px-MK8_Morton_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/7/72/MK8_Morton_Icon.png/64px-MK8_Morton_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Pink Gold Peach",
-		"image": "https://www.mariowiki.com/images/thumb/0/0d/MK8_PGPeach_Icon.png/32px-MK8_PGPeach_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/0/0d/MK8_PGPeach_Icon.png/64px-MK8_PGPeach_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Daisy",
-		"image": "https://www.mariowiki.com/images/thumb/3/32/MK8_Daisy_Icon.png/32px-MK8_Daisy_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/3/32/MK8_Daisy_Icon.png/64px-MK8_Daisy_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Peach",
-		"image": "https://www.mariowiki.com/images/thumb/c/c2/MK8_Peach_Icon.png/32px-MK8_Peach_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/c/c2/MK8_Peach_Icon.png/64px-MK8_Peach_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Rosalina",
-		"image": "https://www.mariowiki.com/images/thumb/8/89/MK8_Rosalina_Icon.png/32px-MK8_Rosalina_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/8/89/MK8_Rosalina_Icon.png/64px-MK8_Rosalina_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Roy",
-		"image": "https://www.mariowiki.com/images/thumb/3/3e/MK8_Roy_Icon.png/32px-MK8_Roy_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/3/3e/MK8_Roy_Icon.png/64px-MK8_Roy_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Shy Guy",
-		"image": "https://www.mariowiki.com/images/thumb/7/7f/MK8_ShyGuy_Icon.png/32px-MK8_ShyGuy_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/7/7f/MK8_ShyGuy_Icon.png/64px-MK8_ShyGuy_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Tanooki Mario",
-		"image": "https://www.mariowiki.com/images/thumb/a/a2/MK8_Tanooki_Mario_Icon.png/32px-MK8_Tanooki_Mario_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/a/a2/MK8_Tanooki_Mario_Icon.png/64px-MK8_Tanooki_Mario_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Toad",
-		"image": "https://www.mariowiki.com/images/thumb/4/45/MK8_Toad_Icon.png/32px-MK8_Toad_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/4/45/MK8_Toad_Icon.png/64px-MK8_Toad_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Toadette",
-		"image": "https://www.mariowiki.com/images/thumb/8/8e/MK8_Toadette_Icon.png/32px-MK8_Toadette_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/8/8e/MK8_Toadette_Icon.png/64px-MK8_Toadette_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Villager Female",
-		"image": "https://www.mariowiki.com/images/thumb/c/c3/VillagerFemale-Icon-MK8.png/32px-VillagerFemale-Icon-MK8.png",
+		"image": "https://www.mariowiki.com/images/thumb/c/c3/VillagerFemale-Icon-MK8.png/64px-VillagerFemale-Icon-MK8.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Villager Male",
-		"image": "https://www.mariowiki.com/images/thumb/1/16/VillagerMale-Icon-MK8.png/32px-VillagerMale-Icon-MK8.png",
+		"image": "https://www.mariowiki.com/images/thumb/1/16/VillagerMale-Icon-MK8.png/64px-VillagerMale-Icon-MK8.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Waluigi",
-		"image": "https://www.mariowiki.com/images/thumb/7/78/MK8_Waluigi_Icon.png/32px-MK8_Waluigi_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/7/78/MK8_Waluigi_Icon.png/64px-MK8_Waluigi_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Wario",
-		"image": "https://www.mariowiki.com/images/thumb/c/c2/MK8_Wario_Icon.png/32px-MK8_Wario_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/c/c2/MK8_Wario_Icon.png/64px-MK8_Wario_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Wendy",
-		"image": "https://www.mariowiki.com/images/thumb/d/d9/MK8_Wendy_Icon.png/32px-MK8_Wendy_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/d/d9/MK8_Wendy_Icon.png/64px-MK8_Wendy_Icon.png",
 		"text": "Some example text"
 	},
 	{
 		"name": "Yoshi",
-		"image": "https://www.mariowiki.com/images/thumb/9/91/MK8_Yoshi_Icon.png/32px-MK8_Yoshi_Icon.png",
+		"image": "https://www.mariowiki.com/images/thumb/9/91/MK8_Yoshi_Icon.png/64px-MK8_Yoshi_Icon.png",
 		"text": "Some example text"
 	}
 ]
