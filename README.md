@@ -2,6 +2,18 @@
 
 Your chosen Mario Kart player says WAY more than a zodiac sign does - [@ChloeCondon](https://twitter.com/ChloeCondon/status/1108738908999700480)
 
+## Dev Setup
+
+**Prerequisites:** nodejs and yarn
+
+```Shell
+# bootstrap
+yarn
+
+# dev server w/ live reload
+yarn start
+```
+
 ### Built with
 - [Create React App](https://github.com/facebook/create-react-app)
 - [NES.css](https://github.com/nostalgic-css/NES.css)
