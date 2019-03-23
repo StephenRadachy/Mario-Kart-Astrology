@@ -1,4 +1,4 @@
-# Mario Kart Astrology
+# Mario Kart Astrology [![Build Status](https://travis-ci.org/StephenRadachy/Mario-Kart-Astrology.svg?branch=master)](https://travis-ci.org/StephenRadachy/Mario-Kart-Astrology)
 
 Your chosen Mario Kart player says WAY more than a zodiac sign does - [@ChloeCondon](https://twitter.com/ChloeCondon/status/1108738908999700480)
 

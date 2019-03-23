@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Container, List } from 'nes-react'
+import { Container, Icon, List } from 'nes-react'
 import Character from './Character'
 import AstrologyData from './AstrologyData.json'
 
@@ -11,7 +11,7 @@ export default class App extends Component {
       maxWidth: 768,
       padding: '10px'
     }}>
-      <h1>Mario Kart Astrology</h1>
+      <h1>Mario Kart Astrology <a href='https://github.com/StephenRadachy/Mario-Kart-Astrology'><Icon icon='github' /></a></h1>
       <h4>Your chosen Mario Kart player says WAY more than a zodiac sign does - <a href='https://twitter.com/ChloeCondon/status/1108738908999700480' target='_blank' rel='noopener noreferrer'>@ChloeCondon</a></h4>
       <br></br>
       <br></br>
